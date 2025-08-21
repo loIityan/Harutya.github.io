@@ -38,4 +38,3 @@ Initialize this repository with a README
     </footer>
 </body>
 </html>
-ext install MonicaIM.monica-code
